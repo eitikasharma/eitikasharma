@@ -1,7 +1,19 @@
 ### Hi there !!! 👋
 
-As a front-end developer, my expertise lies in building user-facing features and interfaces using technologies such as HTML, CSS, and JavaScript. I am well-versed in responsive design principles and have experience working with popular front-end frameworks like React and Angular. I am familiar with using version control software, specifically Git, and have experience working with teams on collaborative development projects. 
-I am always looking to stay up-to-date with the latest web development trends and technologies to deliver the best possible user experience.
+I’m a front-end developer and mainframe expert with a strong academic background in data analytics.
+
+🎓 Master's in Data Analytics, University of Strathclyde (Glasgow, Scotland)
+🎓 Bachelor's in Computer Science, Chitkara Univercity (India)
+
+🛠️ My toolkit includes:
+Frontend Development: HTML, CSS, JavaScript, React
+Mainframes: COBOL, JCL, IBM technologies (Scheduling tools -ZEKE, ZENA, CA7)
+Data Analytics: Python, SQL, visualization tools
+
+I am familiar with using version control software, specifically Git, and have experience working with teams on collaborative development projects. 
+
+🎯My future goals include mastering modern frontend technologies, optimizing mainframe systems for scalability and leveraging data analytics to develop innovative, data-driven solutions. 
+I aim to contribute to impactful projects that bridge the gap between legacy systems and cutting-edge technology.
 
 
 
