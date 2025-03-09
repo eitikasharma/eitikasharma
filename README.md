@@ -11,7 +11,7 @@ I am a passionate Data Analytics professional with a strong academic background.
 ### Data Analytics:
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - Database (PostgreSQL, MySQL, SQL Server)
-- Data Visualization (Tableau, Power BI, Matplotlib, Seaborn)
+- Data Visualization (Tableau, Power BI, Excel)
 - Machine Learning & Statistical Analysis
 - Big Data Technologies (Hadoop, Spark)
 
